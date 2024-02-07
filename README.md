@@ -1,4 +1,4 @@
-#Passenger Counter appliction
+# Passenger Counter appliction
 
 This is a simple passenger count application built using JavaScript. The application allows users to count the present passengers and also helps determine how many people are present at a given place or can be used for different purposes as per requirements.
 
